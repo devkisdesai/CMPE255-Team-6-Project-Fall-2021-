@@ -5,13 +5,13 @@
 
 ### __Team Members__ ###
 
-[Devki] (https://github.com/devkisdesai  "Devki")
+[Devki] (https://github.com/devkisdesai)
 
-[Priyanka] (https://github.com/priyankamoorthysjsu “Priyanka”)
+[Priyanka] (https://github.com/priyankamoorthysjsu)
 
-[Paul] (https://github.com/pauljmello “Paul”)
+[Paul] (https://github.com/pauljmello)
 
-[Vamsi] (https://github.com/vschalamolu9 "Vamsi")
+[Vamsi] (https://github.com/vschalamolu9)
 
 ### __What data you’ll use and where you’ll get it?__ ###
 
