@@ -1,0 +1,5 @@
+pycountry
+ipywidgets
+cufflinks
+missingno
+geopandas
