@@ -26,20 +26,28 @@ We propose a method where we can try and gauge if a continent can be determined 
 
 
 ![Growth by continent](https://user-images.githubusercontent.com/78130620/142963621-549022c2-8a6c-4e73-bc00-a36257d09991.png)
+- From this histogram, we can learn that how the population growth is distributed for each continent over the years from 1960-2020.
 
 ![Average growth by continent](https://user-images.githubusercontent.com/78130620/142963637-9699f037-d0a8-49e3-a3bd-b4f83e748a39.png)
+- This bar graph explains to us that how average population growth of the continents over the years 1960-2020.
 
 ![Trend](https://user-images.githubusercontent.com/78130620/142963653-c7d9522f-6fee-4b5f-b789-185029967757.png)
+- From this graph, we can see that trends of population growth year by year from 1961 to 2041 of every continent.
 
 ![Growth trends by continent](https://user-images.githubusercontent.com/78130620/142963661-77d558ba-49a3-4bc5-aacf-a8db7e9544db.png)
+- From this graph, we can see that trends of population growth year by year from 1961 to 2041 of every continent.
 
 ![Heatmap](https://user-images.githubusercontent.com/78130620/142963672-01c259b8-e3cf-416c-a246-ea7510d2ea33.png)
+- This graph explains that population distribution over countries, where lighter color tells countries which has less population and countries with darker color has more population.
 
 ![Trend 1](https://user-images.githubusercontent.com/78130620/142963682-3101d4d1-81be-4d7d-af1f-5054922894f0.png)
+- This graph is the combination of population trends and population growth trends over the years from 1961 to 2046.
 
 ![Trend 2](https://user-images.githubusercontent.com/78130620/142963692-ffe62d49-72ce-494d-8346-5a21bd8a7227.png)
+- From this graph, we can see that the world population increases linearly over year by year from 1964-2044.
 
 ![Trend 4](https://user-images.githubusercontent.com/78130620/142963705-3a697049-1abe-439a-8d4c-0caa9bcb98dd.png)
+- From this graph, we can see that the rate of change of world population growth decreases gradually over year by year from 1964-2044
 
 # Comparisons
 
