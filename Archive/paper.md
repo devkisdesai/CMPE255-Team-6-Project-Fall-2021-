@@ -41,6 +41,7 @@ We propose a method where we can try and gauge if a continent can be determined 
 - This graph explains that population distribution over countries, where lighter color tells countries which has less population and countries with darker color has more population.
 
 ![Trend 1](https://user-images.githubusercontent.com/78130620/142963682-3101d4d1-81be-4d7d-af1f-5054922894f0.png)
+- This graph is the combination of population trends and population growth trends over the years from 1961 to 2046.
 
 ![Trend 2](https://user-images.githubusercontent.com/78130620/142963692-ffe62d49-72ce-494d-8346-5a21bd8a7227.png)
 
