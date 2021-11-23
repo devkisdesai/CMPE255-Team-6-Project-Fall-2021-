@@ -44,8 +44,10 @@ We propose a method where we can try and gauge if a continent can be determined 
 - This graph is the combination of population trends and population growth trends over the years from 1961 to 2046.
 
 ![Trend 2](https://user-images.githubusercontent.com/78130620/142963692-ffe62d49-72ce-494d-8346-5a21bd8a7227.png)
+- From this graph it is clear that world population increases linearly over year by year from 1964-2044.
 
 ![Trend 4](https://user-images.githubusercontent.com/78130620/142963705-3a697049-1abe-439a-8d4c-0caa9bcb98dd.png)
+- From this graph we can see that rate of change of world poulation growth decreases gradually over year by year from 1964-2044.
 
 # Comparisons
 
