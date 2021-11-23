@@ -26,8 +26,10 @@ We propose a method where we can try and gauge if a continent can be determined 
 
 
 ![Growth by continent](https://user-images.githubusercontent.com/78130620/142963621-549022c2-8a6c-4e73-bc00-a36257d09991.png)
+From this histogram, we can learn that how the population growth is distributed for each continent over the years from 1960-2020.
 
 ![Average growth by continent](https://user-images.githubusercontent.com/78130620/142963637-9699f037-d0a8-49e3-a3bd-b4f83e748a39.png)
+The above bar graph explains to us that how the average population growth of the continents over the years 1960-2020.
 
 ![Trend](https://user-images.githubusercontent.com/78130620/142963653-c7d9522f-6fee-4b5f-b789-185029967757.png)
 
