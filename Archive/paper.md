@@ -22,6 +22,9 @@ We propose a method where we analyze the growth in population in individual coun
 ## Clustering correlation
 We propose a method where we can try and gauge if a continent can be determined based on its geography. We can try to see if the metrics such as Average growth, Total growth, Growth by a specific year for countries can help us correctly identify what continent the specific country belongs to. Another relation that can be mapped would be gauging what countries are closely related, based on these metrics. Clustering can help determine this correlation and help gauge the similarity in growth in population for specific countries. 
 
+## Visualizations of our data set
+
+
 ![Growth by continent](https://user-images.githubusercontent.com/78130620/142963621-549022c2-8a6c-4e73-bc00-a36257d09991.png)
 
 ![Average growth by continent](https://user-images.githubusercontent.com/78130620/142963637-9699f037-d0a8-49e3-a3bd-b4f83e748a39.png)
