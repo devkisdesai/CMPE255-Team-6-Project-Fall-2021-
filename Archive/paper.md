@@ -32,10 +32,13 @@ We propose a method where we can try and gauge if a continent can be determined 
 - The above bar graph explains to us that how the average population growth of the continents over the years 1960-2020.
 
 ![Trend](https://user-images.githubusercontent.com/78130620/142963653-c7d9522f-6fee-4b5f-b789-185029967757.png)
+- From this graph we can see that trends of population growth over year by year from 1961 to 2041 of every country.
 
 ![Growth trends by continent](https://user-images.githubusercontent.com/78130620/142963661-77d558ba-49a3-4bc5-aacf-a8db7e9544db.png)
+- From this graph we can see that trands of population growth year by year from 1961 to 2011 of every continent.
 
 ![Heatmap](https://user-images.githubusercontent.com/78130620/142963672-01c259b8-e3cf-416c-a246-ea7510d2ea33.png)
+- This graph explains that population distribution over countries, where lighter color tells countries which has less population and countries with darker color has more population.
 
 ![Trend 1](https://user-images.githubusercontent.com/78130620/142963682-3101d4d1-81be-4d7d-af1f-5054922894f0.png)
 
