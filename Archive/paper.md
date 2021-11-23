@@ -1,11 +1,8 @@
 ---
-title: Global Population Trends and Projections (Team 6)
-date: "November 22 2021"
-author: Devki Desai, Priyanka Moorthy, Paul Mello, Vamsi Chalamolu, San José State University
+Title: Global Population Trends and Projections (Team 6)
+Date: "November 22 2021"
+Author: Devki Desai, Priyanka Moorthy, Paul Mello, Vamsi Chalamolu, San José State University
 
-header-includes: |
-  \usepackage{booktabs}
-  \usepackage{caption}
 ---
 
 # Abstract
