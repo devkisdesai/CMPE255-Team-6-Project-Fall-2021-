@@ -32,7 +32,7 @@ We propose a method where we attempt to cluster countries by their population da
 ![Country_Growth](https://github.com/devkisdesai/CMPE255-Team-6-Project-Fall-2021-/blob/ff6ba453a4168fed3f356c9a16bd747ccb9b8bb3/Images/Country_Growth.jpg)
 - This histogram contains information regarding the distribution of Total Growth over an 60 year period, from 1960-2020, by continent. This visualization demonstrates how each continents population has been growing overall. While a notable aspect includes a few European countries declining over this period. Further analysis can be done to understand why that is the case.
 
-![Growth_Trends_by_Year_Per_Continent](https://github.com/devkisdesai/CMPE255-Team-6-Project-Fall-2021-/blob/ff6ba453a4168fed3f356c9a16bd747ccb9b8bb3/Images/Growth_Trends_by_Year_Per_Continent.jpg)
+![Average_Growth_by_Continent](https://github.com/devkisdesai/CMPE255-Team-6-Project-Fall-2021-/blob/37fcae59a265e54cc6c3079e01e1fd2f78ea5b9c/Images/Average_Growth_By_Continent.jpg)
 - This bar graph demonstrates each continents average population growth over the years 1960-2020. It is important to note that this does not take into account starting or ending population sizes, just their respective growths.
 
 ![Growth_Trends_by_Year_Per_Continent](https://github.com/devkisdesai/CMPE255-Team-6-Project-Fall-2021-/blob/ff6ba453a4168fed3f356c9a16bd747ccb9b8bb3/Images/Growth_Trends_by_Year_Per_Continent.jpg)
