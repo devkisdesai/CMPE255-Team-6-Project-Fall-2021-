@@ -1,17 +1,3 @@
-This is an example project to build academic papers using markdown and pandoc.
+## Final Paper Report
 
-## Install
-
-First you need to install [Pandoc](https://pandoc.org/installing.html)
-
-Next, install some Python packages:
-
-	pip install -r requirements.txt
-
-Finally, it is not necessary but installing the entr tool makes it so your pdf gets generated every time your markdown files change.
-
-
-## Run
-
-Modify paper.md then in a terminal window run either make or run.sh (auto build)
-
+The final paper represents our cumulative work for this project. Many more visualizations, models, and analysis, were created which did not make it into the final iteration of the paper. If you are interested in seeing the totality of our work please check out our EDA files. For additional analysis and modeling please refer to our models folder which contains many different types of modeling, analysis, and their appropriate visualizations.
